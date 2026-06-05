@@ -18,3 +18,5 @@ This is a Retrieval-Augmented Generation (RAG) application that allows users to 
 * **Vector Database:** ChromaDB
 * **Document Parsing:** pypdf
 
+![alt text](image.png)
+

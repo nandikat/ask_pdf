@@ -16,5 +16,5 @@ This is a Retrieval-Augmented Generation (RAG) application that allows users to 
 * **LLM:** Google Gemini 2.5 Flash 
 * **Embeddings:** Google Gemini Embeddings 
 * **Vector Database:** ChromaDB
-* **Document Parsing:** `pypdf`
+* **Document Parsing:** pypdf
 

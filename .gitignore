@@ -29,3 +29,6 @@ __pycache__/
 ._*
 .Trashes
 Thumbs.db
+
+.gitignore
+ask.py
